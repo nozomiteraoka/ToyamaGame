@@ -1,31 +1,3 @@
-%YAML 1.1
-%TAG !u! tag:unity3d.com,2011:
---- !u!114 &11400000
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 0}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d41d6e2b1b8e4199ae434d9e49e78169, type: 3}
-  m_Name: Font Fallback Settings Editor
-  m_EditorClassIdentifier: 
-  font: {fileID: 11400000, guid: 61dc89df3495003449cbd9cf69fde97a, type: 2}
-  localizeFallbacks:
-  - language: English
-    fallbacks:
-    - {fileID: 11400000, guid: 43e927f8d388d1f4d87462d4aa8106d9, type: 2}
-  - language: Japanese
-    fallbacks:
-    - {fileID: 11400000, guid: 43e927f8d388d1f4d87462d4aa8106d9, type: 2}
-  - language: Korean
-    fallbacks:
-    - {fileID: 11400000, guid: 3802259969e8d044cadbbf22e3061d96, type: 2}
-  - language: ChineseSimplified
-    fallbacks:
-    - {fileID: 11400000, guid: 84facfc6faf106c43bb683f98c860ed8, type: 2}
-  - language: ChineseTraditional
-    fallbacks:
-    - {fileID: 11400000, guid: ebbd97897e89fad4595026ffcdb2ecdb, type: 2}
+version https://git-lfs.github.com/spec/v1
+oid sha256:cecbc18114d9b897744a0a8c03941c5e106d8767436bda97042cb52f6597b670
+size 1091
